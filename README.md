@@ -2,13 +2,13 @@
 
 <img src="https://raw.githubusercontent.com/metosin/talvi/master/docs/img/talvi.jpg" align="right"/>
 
-Opionated, Batteries included web-stack for Clojure/Script.
+Opionionated, Batteries included Web-stack for Clojure/Script.
 
 * Data-driven, all the way down
 * Focus on Productivity & Developer UX
 * Low latency & Non-blocking
 * JVM, GraalVM and the Browser
-* Modular and extendable
+* Modular and Extendable
 
 ## Ingredients
 
