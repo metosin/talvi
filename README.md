@@ -8,7 +8,7 @@ Opionionated, Batteries included Web-stack for Clojure/Script.
 * Focus on Productivity & Developer UX
 * Low latency & Non-blocking
 * JVM, GraalVM and the Browser
-* Modular and Extendable
+* Modular and Extensible
 
 ## Ingredients
 
@@ -25,7 +25,7 @@ Opionionated, Batteries included Web-stack for Clojure/Script.
 
 * [Porsas](https://github.com/metosin/porsas), Reactive PostgreSQL for Clojure
 * [Lacinia](https://github.com/walmartlabs/lacinia), GraphQL for Clojure
-* [Pohjavirta](https://github.com/metosin/porsas), Undertow for Clojure
+* [Pohjavirta](https://github.com/metosin/pohjavirta), Undertow for Clojure
 
 ## License
 
