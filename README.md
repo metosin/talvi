@@ -27,6 +27,11 @@ Opionionated, Batteries included Web-stack for Clojure/Script.
 * [Lacinia](https://github.com/walmartlabs/lacinia), GraphQL for Clojure
 * [Pohjavirta](https://github.com/metosin/pohjavirta), Undertow for Clojure
 
+## Devops
+
+* [pack.alpha](https://github.com/juxt/pack.alpha) for packaging as Docker image and Uberjar
+* [Terraform](https://www.terraform.io/) for defining infrastructure and monitoring
+
 ## License
 
 Copyright © 2019 [Metosin Oy](http://www.metosin.fi)
