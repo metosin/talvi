@@ -1,6 +1,6 @@
 # talvi
 
-<img src="https://raw.githubusercontent.com/metosin/talvi/master/docs/img/talvi.png" align="right"/>
+<img src="https://raw.githubusercontent.com/metosin/talvi/master/docs/img/talvi.png" width="532" align="right"/>
 
 Opionionated, Batteries included Web-stack for Clojure/Script.
 
