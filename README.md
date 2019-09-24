@@ -10,6 +10,8 @@ Opionionated, Batteries included Web-stack for Clojure/Script.
 * JVM, GraalVM and the Browser
 * Modular and Extensible
 
+STATUS: Pre-alpha, in design and prototyping phase.
+
 ## Ingredients
 
 * [Integrant](https://github.com/weavejester/integrant) to the top-level modules
